@@ -17,7 +17,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DuckFace121&show_icons=true&theme=dark&locale=en" alt="DuckFace121" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duckface121&show_icons=true&theme=dark&locale=en" alt="duckface121" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DuckFace121&theme=dark" alt="DuckFace121" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duckface121&theme=dark" alt="duckface121" /></p>
