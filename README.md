@@ -7,8 +7,6 @@
 
 - 📖 Currently learning **Java, JS & Others**
 
-- ⚡ Fun fact **The Gym is my 2nd home**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/duckface121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duckface121" height="30" width="40" /></a>
